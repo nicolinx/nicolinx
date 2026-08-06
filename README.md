@@ -8,21 +8,24 @@ Find my personal portfolio [here](https://nicolin.dev) or connect with me on [Li
 
 ## My GitHub Contributions
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/nicolinx/nicolinx/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolinx&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolinx/nicolinx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolinx/nicolinx/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/nicolinx/nicolinx/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 ## GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolinx&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolinx&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolinx&show_icons=true&theme=nord&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolinx&layout=compact&theme=nord&hide_border=true" height="170" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolinx&theme=nord&hide_border=true" height="170" alt="GitHub Streak" />
+</div>
 
 ---
 
