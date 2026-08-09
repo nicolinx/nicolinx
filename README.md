@@ -21,9 +21,9 @@ Find my personal portfolio [here](https://nicolin.dev) or connect with me on [Li
 ## GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolinx&show_icons=true&theme=nord&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolinx&show_icons=true&theme=nord&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolinx&layout=compact&theme=nord&hide_border=true" height="170" alt="Top Languages" />
-  <br /><br />
+  <br /><br /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolinx&theme=nord&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
