@@ -1,4 +1,4 @@
-# Hey there! 😀
+# Hi, everyone! 👋
 
 I'm **Nicodemus Lin**, a Senior Mobile Engineer with 8+ years of experience building and scaling mobile applications from concept to production, including products reaching over 1 million downloads. I care deeply about clean architecture, CI/CD automation, and technical leadership to ship reliable, high-performing products.
 
