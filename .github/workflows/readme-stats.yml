@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=calm
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=calm&hide=contribs
           path: profile/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -39,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}layout=compact&langs_count=6&theme=calm
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=calm
           path: profile/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
