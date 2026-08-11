@@ -26,17 +26,11 @@ A production-ready Flutter starter kit demonstrating Clean Architecture, Cubit, 
 
 <div align="center">
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="./profile/stats.svg" height="165" hspace="8" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="./profile/top-langs.svg" height="165" hspace="8" alt="Top Languages" />
-    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/stats.svg" height="165" hspace="8" alt="GitHub Stats" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/top-langs.svg" height="165" hspace="8" alt="Top Languages" /></a>
   </p>
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="./profile/streak.svg" hspace="6" alt="GitHub Streak" />
-    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="./profile/streak.svg" hspace="6" alt="GitHub Streak" /></a>
   </p>
 </div>
 
