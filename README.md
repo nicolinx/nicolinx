@@ -14,7 +14,7 @@ Find my personal portfolio [here](https://nicolin.dev) or connect with me on [Li
 
 ## Featured Open Source Project
 
-### [Flutter Enterprise Starter Kit](https://github.com/nicolinx)
+### [Flutter Enterprise Starter Kit](https://github.com/nicolinx/flutter_enterprise_starter_kit)
 A production-ready Flutter starter kit demonstrating Clean Architecture, Cubit, dependency injection, Firebase, CI/CD, and modern engineering best practices.
 - **Architecture:** Clean Architecture + Cubit / BLoC
 - **Features:** Offline caching, GitHub Actions CI/CD, feature-based modular structure
