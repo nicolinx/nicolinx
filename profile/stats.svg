@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nicodemus Lin&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 64, Total Commits  : 2712, Total PRs: 220, Total Issues: 3</desc>
+        <desc id="descId">Total Stars Earned: 64, Total Commits  : 2716, Total PRs: 220, Total Issues: 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.66668762950461;
+        stroke-dashoffset: 90.64898740427924;
       }
     }
   
