@@ -2,7 +2,7 @@
 
 I'm a Senior Flutter Engineer based in Indonesia, with 8+ years across mobile engineering. Flutter is my primary stack, but I'm also comfortable in native Swift, Kotlin, or React Native when needed, or full-stack work with Next.js and Go.
 
-I focus on clean architecture, solid testing, and I'm used to working with AI assistants like Claude Code to move faster without cutting corners. I also enjoy debugging production issues down to root cause and optimizing app performance along the way.
+I focus on clean architecture, solid testing, and I'm used to working with AI assistants like Claude Code to move faster without sacrificing code quality. I also enjoy debugging production issues down to root cause and optimizing app performance along the way.
 
 I've also led engineering teams, managing 24 engineers as a Technology Manager and driving Agile/LeSS adoption across product teams.
 
