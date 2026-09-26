@@ -1,6 +1,12 @@
 # Hi, everyone! 👋
 
-I'm **Nicodemus Lin**, a Senior Mobile Engineer with 8+ years of experience building and scaling mobile applications from concept to production, including products reaching over 1 million downloads. I care deeply about clean architecture, CI/CD automation, and technical leadership to ship reliable, high-performing products.
+I'm a Senior Flutter Engineer based in Indonesia, with 8+ years across mobile engineering. Flutter is my primary stack, but I'm also comfortable in native Swift, Kotlin, or React Native when needed, or full-stack work with Next.js and Go.
+
+I focus on clean architecture, solid testing, and I'm used to working with AI assistants like Claude Code to move faster without cutting corners. I also enjoy debugging production issues down to root cause and optimizing app performance along the way.
+
+I've also led engineering teams, managing 24 engineers as a Technology Manager and driving Agile/LeSS adoption across product teams.
+
+Currently open to remote roles with global teams.
 
 Find my personal portfolio [here](https://nicolin.dev) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicodemus-lin/).
 
@@ -48,4 +54,4 @@ A production-ready Flutter starter kit demonstrating Clean Architecture, Cubit, 
 
 ---
 
-© 2026 — [Nicodemus Lin](https://nicolin.dev)
+© 2026 [Nicodemus Lin](https://nicolin.dev)
