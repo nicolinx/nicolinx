@@ -26,6 +26,12 @@ A production-ready Flutter starter kit demonstrating Clean Architecture, Cubit, 
 - **Features:** Offline caching, GitHub Actions CI/CD, feature-based modular structure
 - **Testing:** Automated testing setups & Mockito patterns
 
+### [Character Lens](https://github.com/nicolinx/character-lens)
+A Flutter app where you draw a Chinese or Japanese character with your finger and look it up. Handwriting is recognized on the device, readings and meanings come from an offline dictionary, and a separate AI-generated card explains the character.
+- **Architecture:** Clean Architecture + Riverpod with sealed states, documented in ADRs and a [case study](https://github.com/nicolinx/character-lens/blob/main/docs/case-study.md)
+- **Features:** On-device ML Kit Digital Ink, offline Unihan SQLite dictionary (60,183 characters), Gemini via Firebase AI Logic with App Check and a reading validator
+- **Testing:** 630 tests, GitHub Actions CI
+
 ---
 
 ## GitHub Overview
