@@ -1,12 +1,14 @@
 # Hi, everyone! 👋
 
-I'm a Senior Flutter Engineer based in Indonesia, with 8+ years across mobile engineering. Flutter is my primary stack, but I'm also comfortable in native Swift, Kotlin, or React Native when needed, or full-stack work with Next.js and Go.
+I'm a Senior Flutter Engineer based in Indonesia, with 8+ years in software development and Flutter as my main stack since 2019. I also work in native Kotlin and Swift and in React Native, and I've done web work in Next.js with some backend fixes in Go.
 
-I focus on clean architecture, solid testing, and I'm used to working with AI assistants like Claude Code to move faster without sacrificing code quality. I also enjoy debugging production issues down to root cause and optimizing app performance along the way.
+I led the Flutter migration of Teman Bumil, replacing its separate native Android and iOS codebases with one app (1M+ downloads, 150K MAU, 99.5% crash-free sessions). At Bosshire I built the Flutter job portal from concept to launch (10K+ downloads, 2.5K MAU, 4.8/5 rating on Google Play and the App Store).
 
-I've also led engineering teams, managing 24 engineers as a Technology Manager and driving Agile/LeSS adoption across product teams.
+I mostly work with Clean Architecture, BLoC/Cubit, unit tests, and TDD on business logic. Claude Code is part of my daily workflow, and it helped increase release velocity by 30% at Bosshire. I like digging into production issues with Crashlytics and Flutter DevTools.
 
-Currently open to remote roles with global teams.
+I led a squad of 5 mobile engineers, then managed a 24-person product engineering team as Technology Manager. At Bosshire I led an 8-person cross-functional team and was also its only mobile engineer.
+
+My open-source Flutter Enterprise Starter Kit has 50+ GitHub stars. I'm open to remote roles with global teams.
 
 Find my personal portfolio [here](https://nicolin.dev) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicodemus-lin/).
 
@@ -14,17 +16,17 @@ Find my personal portfolio [here](https://nicolin.dev) or connect with me on [Li
 
 ## Tech Experiences
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,ts,js,react,nextjs,nodejs,postgres,firebase,docker,githubactions,git,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,ts,js,react,nextjs,go,postgres,firebase,githubactions,git,vscode,figma)
 
 ---
 
-## Featured Open Source Project
+## Featured Open Source Projects
 
 ### [Flutter Enterprise Starter Kit](https://github.com/nicolinx/flutter_enterprise_starter_kit)
-A production-ready Flutter starter kit demonstrating Clean Architecture, Cubit, dependency injection, Firebase, CI/CD, and modern engineering best practices.
-- **Architecture:** Clean Architecture + Cubit / BLoC
-- **Features:** Offline caching, GitHub Actions CI/CD, feature-based modular structure
-- **Testing:** Automated testing setups & Mockito patterns
+A production-oriented Flutter starter kit with Clean Architecture, Cubit, dependency injection, Firebase Authentication, and typed error handling. It has 50+ GitHub stars.
+- **Architecture:** Clean Architecture + Cubit, feature-based modules, decisions and trade-offs documented in the repo
+- **Features:** Offline REST caching, Dev/Prod flavors, Fastlane, Firebase App Distribution
+- **Testing:** Automated tests with Mockito, GitHub Actions CI
 
 ### [Character Lens](https://github.com/nicolinx/character-lens)
 A Flutter app where you draw a Chinese or Japanese character with your finger and look it up. Handwriting is recognized on the device, readings and meanings come from an offline dictionary, and a separate AI-generated card explains the character.
