@@ -80,10 +80,10 @@ The setup I'd want on day one of a new project: Clean Architecture, Cubit, depen
 
 ```mermaid
 flowchart LR
-  UI[Presentation<br/>Widgets + Cubit] --> D[Domain<br/>Use cases + Entities]
-  D --> R[Data<br/>Repositories]
-  R --> API[(REST API<br/>Dio)]
-  R --> C[(Local cache<br/>Hive)]
+  UI["Presentation: Widgets + Cubit"] --> D["Domain: Use cases + Entities"]
+  D --> R["Data: Repositories"]
+  R --> API[("REST API (Dio)")]
+  R --> C[("Local cache (Hive)")]
 ```
 
 [![Star History](https://api.star-history.com/svg?repos=nicolinx/flutter_enterprise_starter_kit&type=Date)](https://star-history.com/#nicolinx/flutter_enterprise_starter_kit&Date)
