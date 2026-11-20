@@ -78,13 +78,9 @@ Clean Architecture, BLoC/Cubit or Riverpod, tests on the business logic, and TDD
 
 The setup I'd want on day one of a new project: Clean Architecture, Cubit, dependency injection, Firebase Auth, typed error handling, offline REST caching, Dev/Prod flavors, Fastlane, and CI with GitHub Actions. The trade-offs are written up in the repo.
 
-```mermaid
-flowchart LR
-  UI["Presentation: Widgets + Cubit"] --> D["Domain: Use cases + Entities"]
-  D --> R["Data: Repositories"]
-  R --> API[("REST API (Dio)")]
-  R --> C[("Local cache (Hive)")]
-```
+<p align="center">
+  <img src="assets/architecture.png" width="720" alt="Architecture: Presentation (widgets and Cubit) calls Domain (use cases and entities), which calls Data (repositories). Data talks to a REST API through Dio and to a local cache in Hive." />
+</p>
 
 [![Star History](https://api.star-history.com/svg?repos=nicolinx/flutter_enterprise_starter_kit&type=Date)](https://star-history.com/#nicolinx/flutter_enterprise_starter_kit&Date)
 

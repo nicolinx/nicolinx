@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" width="960" height="280" role="img" aria-labelledby="t d">
+  <title id="t">Flutter Enterprise Starter Kit architecture</title>
+  <desc id="d">Presentation (widgets and Cubit) calls Domain (use cases and entities), which calls Data (repositories). Data talks to a REST API through Dio and to a local cache in Hive.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#5B6B7B"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="280" rx="16" fill="#F4F8FC" stroke="#D5E1EC"/>
+
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <!-- Presentation -->
+    <rect x="32" y="85" width="190" height="110" rx="12" fill="#0175C2"/>
+    <text x="127" y="128" font-size="20" font-weight="700" fill="#FFFFFF">Presentation</text>
+    <text x="127" y="156" font-size="15" fill="#E3F1FB">Widgets + Cubit</text>
+
+    <!-- Domain -->
+    <rect x="270" y="85" width="190" height="110" rx="12" fill="#02569B"/>
+    <text x="365" y="128" font-size="20" font-weight="700" fill="#FFFFFF">Domain</text>
+    <text x="365" y="156" font-size="15" fill="#E3F1FB">Use cases + Entities</text>
+
+    <!-- Data -->
+    <rect x="508" y="85" width="190" height="110" rx="12" fill="#013A6B"/>
+    <text x="603" y="128" font-size="20" font-weight="700" fill="#FFFFFF">Data</text>
+    <text x="603" y="156" font-size="15" fill="#E3F1FB">Repositories</text>
+
+    <!-- Sources -->
+    <rect x="770" y="35" width="160" height="80" rx="12" fill="#FFFFFF" stroke="#0175C2" stroke-width="2"/>
+    <text x="850" y="71" font-size="18" font-weight="700" fill="#013A6B">REST API</text>
+    <text x="850" y="94" font-size="14" fill="#5B6B7B">Dio</text>
+
+    <rect x="770" y="165" width="160" height="80" rx="12" fill="#FFFFFF" stroke="#0175C2" stroke-width="2"/>
+    <text x="850" y="201" font-size="18" font-weight="700" fill="#013A6B">Local cache</text>
+    <text x="850" y="224" font-size="14" fill="#5B6B7B">Hive</text>
+  </g>
+
+  <!-- Arrows -->
+  <g stroke="#5B6B7B" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+    <path d="M222 140 H266"/>
+    <path d="M460 140 H504"/>
+    <path d="M698 120 C730 120 730 75 766 75"/>
+    <path d="M698 160 C730 160 730 205 766 205"/>
+  </g>
+</svg>
