@@ -33,7 +33,12 @@ Based in Tangerang, Indonesia.
 <p align="center">
   <img src="assets/teman-bumil.webp" width="32%" alt="Teman Bumil: splash, home and articles screens" />
   <img src="assets/bosshire.webp" width="32%" alt="Bosshire: splash, login and job list screens" />
+  <img src="assets/kitacare.webp" width="32%" alt="KitaCare: splash, pregnancy home and contraction tracker screens" />
+</p>
+<p align="center">
+  <img src="assets/teman-diabetes.webp" width="32%" alt="Teman Diabetes: notifications, education and records screens" />
   <img src="assets/character-lens.webp" width="32%" alt="Character Lens: drawing and result screens" />
+  <img src="assets/guesehat.webp" width="32%" alt="GueSehat: splash, login and events screens" />
 </p>
 
 ## What I'm good at
