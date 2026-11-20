@@ -38,17 +38,17 @@ Based in Tangerang, Indonesia.
 
 ## What I'm good at
 
-I take Flutter apps from a blank repo to the App Store and Play Store, covering architecture, state management, offline support, CI/CD and releases. I've also inherited apps that were already on fire: Teman Bumil's native codebase started at 40% crash-free users.
+I have created multiple Flutter apps from scratch to publishing on the App Store and Play Store. This includes good knowledge of architecture, state management, offline capabilities, CI/CD and deployment. I have also worked on apps which were already in production. In the case of Teman Bumil, the native app had 40% of crash-free users, which was brought up to 95-97% through my refactoring.
 
-A migration is a different job from a new build. Moving a live app with 1M+ downloads and 150K monthly users from two native codebases to one is like changing the engine while it's running, and I've done it, so I know where it tends to go wrong.
+I have led the move of an existing app from two separate native codebases into one. This was done in Teman Bumil, with 99.5% of crash-free sessions.
 
-I've run a squad and managed a larger engineering team. What I like most is code review, mentoring, and making the next release less stressful than the last.
+I have managed a squad and a wider engineering team, and love doing code reviews, mentoring, and making each release less stressful than the previous ones.
 
-When something breaks in production and nobody knows why yet, I'm happy to dig in with Crashlytics, Flutter DevTools and some patience.
+If there is an issue in production and no-one knows what is causing it, I'm very happy to dig in with Crashlytics, Flutter DevTools and patience to find out!
 
 ## How I like to work
 
-Clean Architecture, BLoC/Cubit or Riverpod, tests on the business logic, and TDD where it pays off. I write down decisions so the next person isn't guessing. I use Claude Code daily for exploring unfamiliar code, planning and review, and it raised release velocity by 30% at Bosshire. I review every change it makes.
+Clean architecture, using BLoC/Cubit or Riverpod, testing business logic and TDD (where appropriate). I document my decisions so that people can understand what I have done. I use Claude Code daily to explore code, plan and review. This increased our release velocity by 30% at Bosshire. I do review any changes made.
 
 ## Stack
 
@@ -100,15 +100,15 @@ Draw a Chinese or Japanese character with your finger and look it up. Handwritin
 
 A Claude Code plugin with skills for working on Flutter apps: explore, plan, verify, review.
 
-## Right now
+## Currently
 
-- Looking for a remote Flutter or mobile role with a team that cares about quality
-- Taking on a few freelance projects: new Flutter apps, native-to-Flutter migrations, architecture and code reviews, and rescuing apps with crash or release problems
-- Building tools around Claude Code for Flutter workflows
+- Looking for remote work with a quality-focused team
+- Looking for freelance work. Can develop new Flutter apps, perform native-to-Flutter migrations, perform architecture/code reviews, and save troubled apps (either crashing or issues in release).
+- Developing tools for working with Claude Code in Flutter.
 
-## Work with me
+## Let's work together!
 
-If you have an app to build, fix or migrate, or a team that needs a senior mobile engineer, send me a few lines about what you're working on. I reply fast, and I'll say so if I'm not the right fit.
+Send me a short message about your project (or team in need of a senior mobile engineer) and I will get back to you quickly. If I am not a good fit, I will let you know.
 
 <p align="center">
   <a href="mailto:nicolin.work@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
